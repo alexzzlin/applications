@@ -1,1 +1,1 @@
-# This repostiory porvides the script necessary for MST 688 - Data Science Applications
+# This repository provides scripts for MST 688 - Data Science Applications
